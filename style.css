@@ -1,0 +1,17 @@
+.main{
+	background-image: url('http://i.stack.imgur.com/jGlzr.png')
+}
+.main h1{
+	text-align: center;
+}
+.internal{
+	color: white;
+}
+body{
+	background-color: #151102;
+	background-image: url('http://i.stack.imgur.com/jGlzr.png');
+	background-size: 200px 100px;
+	background-repeat: no-repeat;
+	background-position: right bottom;
+	background-attachment: fixed;
+	}
